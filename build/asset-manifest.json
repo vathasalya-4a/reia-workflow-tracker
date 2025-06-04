@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reia-workflow-tracker/static/css/main.7c9bc51d.css",
+    "main.js": "/reia-workflow-tracker/static/js/main.26e18e72.js",
+    "static/media/Hire 360 Image.png": "/reia-workflow-tracker/static/media/Hire 360 Image.10b444526bdad0f6c533.png",
+    "static/media/Logo.png": "/reia-workflow-tracker/static/media/Logo.e6fb0233441aa26c225f.png",
+    "static/media/Decide & Offer.png": "/reia-workflow-tracker/static/media/Decide & Offer.0bea5c0b53cb1f8d46b6.png",
+    "static/media/Launch & Attract.png": "/reia-workflow-tracker/static/media/Launch & Attract.236a1ff293ba4b2caae2.png",
+    "static/media/Compliance & legal Review.png": "/reia-workflow-tracker/static/media/Compliance & legal Review.40893b181c5b136bcc82.png",
+    "static/media/Ready & Welcome.png": "/reia-workflow-tracker/static/media/Ready & Welcome.09b54c13a7453a8aeb60.png",
+    "static/media/Wrap & transition.png": "/reia-workflow-tracker/static/media/Wrap & transition.e018c88b9f11cb59b5d8.png",
+    "static/media/Screen & Select.png": "/reia-workflow-tracker/static/media/Screen & Select.1dbeb7170756939f9104.png",
+    "index.html": "/reia-workflow-tracker/index.html",
+    "main.7c9bc51d.css.map": "/reia-workflow-tracker/static/css/main.7c9bc51d.css.map",
+    "main.26e18e72.js.map": "/reia-workflow-tracker/static/js/main.26e18e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9bc51d.css",
+    "static/js/main.26e18e72.js"
+  ]
+}
