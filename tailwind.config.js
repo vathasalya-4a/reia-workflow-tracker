@@ -12,6 +12,9 @@ module.exports = {
         'green-600': '#16A34A',
         'blue-600': '#3B82F6',
       },
+      transitionProperty: {
+      'tooltip': 'opacity, transform',
+    },
     },
   },
   plugins: [],

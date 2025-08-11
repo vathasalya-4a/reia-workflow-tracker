@@ -2,3 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+/* index.css or tailwind.css */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  border: 4px solid transparent;
+  border-top: 4px solid #2563eb;  /* Color for the spinner's top */
+  border-radius: 50%;
+  width: 3rem;  /* Size of the spinner */
+  height: 3rem;
+  animation: spin 1.5s linear infinite;  /* Spin the circle indefinitely */
+}
+
+
